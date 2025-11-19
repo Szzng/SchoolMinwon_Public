@@ -237,7 +237,7 @@ GNU General Public License v3.0 - [LICENSE](LICENSE) 파일 참고
 
 ## 👨‍💻 개발자
 
-SchoolMinwon은 AI 기반 학교 민원 관리의 가능성을 탐색하는 프로젝트입니다.
+- https://szzng.zzolab.com/
 
 ## ❓ FAQ
 
