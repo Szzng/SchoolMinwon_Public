@@ -1,0 +1,64 @@
+# Python
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+back/venv/
+back/.venv/
+env/
+.env
+.env.local
+
+# Django
+back/db.sqlite3
+*.db
+back/media/
+back/staticfiles/
+
+# AI/ML
+back/chroma_db/
+/back/minwon/ai/rag/notices
+
+# Redis
+dump.rdb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Node
+front/node_modules/
+front/.nuxt/
+front/dist/
+
+# Testing
+front/.vitest/
+front/coverage/
+front/test-results/
+
+# Claude Code
+.claude/
+CLAUDE.md

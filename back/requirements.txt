@@ -1,0 +1,5 @@
+Django==5.2.8
+djangorestframework==3.14.0
+django-cors-headers==4.4.0
+django-fsm==3.0.1
+python-decouple==3.8
